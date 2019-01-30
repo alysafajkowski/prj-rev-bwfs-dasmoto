@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*css document*/
+h1. {
+  font-size: 20px;
+  font-style: normal;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+brushes. {
+  background-color: seagreen;
+}
+
+frames. {
+  background-color: salmon;
+}
+
+paint. {
+  background-color: lightblue;
+}
